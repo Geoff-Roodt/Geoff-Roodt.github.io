@@ -6,7 +6,7 @@ This page has been created using Markdown.
 + **_Link coming soon..._**
 
 ### Active Repositories  
-+ [Entity Framework MVC Code First](https://github.com/Geoff-Roodt/EFCodeFirst)
++ [Entity Framework MVC Code First (Android App and Web API)](https://github.com/Geoff-Roodt/EFCodeFirst)
 + [Email Client](https://github.com/Geoff-Roodt/Sarge-Stubby-Emails)
 + [Microsoft Bot Framework](https://github.com/Geoff-Roodt/BotTest1)
 + [Xamarin Cross Platform Colour Changer Mobile App](https://github.com/Geoff-Roodt/COMP6001-Ass1)
