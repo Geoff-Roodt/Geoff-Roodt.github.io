@@ -3,7 +3,12 @@
 This page has been created using Markdown.  
 
 ## Angular Repositories
-+ **_Link coming soon..._**
++ **_Link coming soon..._**  
+
+#### What is Angular, I hear you say?  
+[This is de wae](https://angular.io/docs)  
+
+---
 
 ### Active Repositories  
 + [Entity Framework MVC Code First (Android App and Web API)](https://github.com/Geoff-Roodt/EFCodeFirst)
