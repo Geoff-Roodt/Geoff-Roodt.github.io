@@ -1,28 +1,19 @@
 ## Welcome to Geoff's Repository
 
-This page has been created using Markdown.
+This page has been created using Markdown.  
 
-### Markdown
+## Angular Repositories
++ **_Link coming soon..._**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Active Repositories  
++ [Entity Framework MVC Code First] (https://github.com/Geoff-Roodt/EFCodeFirst)
++ [Email Client] (https://github.com/Geoff-Roodt/Sarge-Stubby-Emails)
++ [Microsoft Bot Framework] (https://github.com/Geoff-Roodt/BotTest1)
++ [Xamarin Cross Platform Colour Changer Mobile App] (https://github.com/Geoff-Roodt/COMP6001-Ass1)
++ [Swift ScanR Application] (https://github.com/Geoff-Roodt/COMP6001-17B-SWIFT)
 
-```markdown
-Syntax highlighted code block
+***
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
