@@ -3,7 +3,7 @@
 This page has been created using Markdown.  
 
 ## Angular Repositories
-+ **_Link coming soon..._**  
++ Lesson 1: [Simple Hello World web-page (includes Angular Setup in Readme)](https://github.com/Geoff-Roodt/angular-setup)  
 
 #### What is Angular, I hear you say?  
 [This is de wae](https://angular.io/docs)  
