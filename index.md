@@ -4,7 +4,7 @@ This page has been created using Markdown.
 
 ## Angular Repositories
 + Lesson 1: [Simple Hello World web-page (includes Angular Setup in Readme)](https://github.com/Geoff-Roodt/angular-setup)  
-+ Lesson 1 Exercise: [Simple Reddit Clone](https://github.com/Geoff-Roodt/angular-reddit-clone)  
++ Lesson 1 Exercise: [Simple Reddit Clone](https://dist-kkckyghzlb.now.sh/) and [`the code`](https://github.com/Geoff-Roodt/angular-reddit-clone)  
 
 
 #### What is Angular, I hear you say?  
