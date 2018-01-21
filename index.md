@@ -5,7 +5,8 @@ This page has been created using Markdown.
 ## Angular Repositories
 + Lesson 1: [Simple Hello World web-page (includes Angular Setup in Readme)](https://github.com/Geoff-Roodt/angular-setup)  
 + Lesson 1 Exercise: [Simple Reddit Clone](https://dist-zsmlciypeh.now.sh) and [`the code`](https://github.com/Geoff-Roodt/angular-reddit-clone)  
-+ Lesson 2: [Simple Inventory App](https://github.com/Geoff-Roodt/angular-inventory-app). The link to the server is in the repo.
++ Lesson 2: [Simple Inventory App](https://github.com/Geoff-Roodt/angular-inventory-app). The link to the server is in the repo.  
++ Lesson 3: [Simple Form App](https://github.com/Geoff-Roodt/angular-forms)
 
 
 #### What is Angular, I hear you say?  
