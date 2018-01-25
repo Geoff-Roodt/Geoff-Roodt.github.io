@@ -7,7 +7,8 @@ This page has been created using Markdown.
 + Lesson 1 Exercise: [Simple Reddit Clone](https://github.com/Geoff-Roodt/angular-reddit-clone)  
 + Lesson 2: [Simple Inventory App](https://github.com/Geoff-Roodt/angular-inventory-app). 
 + Lesson 3: [Simple Form App](https://github.com/Geoff-Roodt/angular-forms)  
-+ Lesson 4: [Angular HTTP Client Requests](https://github.com/Geoff-Roodt/angular-http)
++ Lesson 4: [Angular HTTP Client Requests](https://github.com/Geoff-Roodt/angular-http)  
++ Lesson 5: [Angular Routing / Spotify Song Searcher](https://github.com/Geoff-Roodt/angular-routing)  
 
 
 #### What is Angular, I hear you say?  
