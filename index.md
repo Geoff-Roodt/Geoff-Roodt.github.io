@@ -10,6 +10,7 @@ This page has been created using Markdown.
 + Lesson 4: [Angular HTTP Client Requests](https://github.com/Geoff-Roodt/angular-http)  
 + Lesson 5: [Angular Routing / Spotify Song Searcher](https://github.com/Geoff-Roodt/angular-routing)  
 + Lesson 6: [RxJS Chat App](https://github.com/Geoff-Roodt/angular-rxjs)  
++ Lesson 7: [Advanced Component Techniques](https://github.com/Geoff-Roodt/advanced-components)  
 
 
 #### What is Angular, I hear you say?  
