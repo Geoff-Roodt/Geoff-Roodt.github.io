@@ -11,7 +11,6 @@ This page has been created using Markdown.
 + Lesson 5: [Angular Routing / Spotify Song Searcher](https://github.com/Geoff-Roodt/angular-routing)  
 + Lesson 6: [Angular Redux](https://github.com/Geoff-Roodt/angular-redux)  
 + Lesson 7: [RxJS Chat App](https://github.com/Geoff-Roodt/angular-rxjs)  
-+ Lesson 8: [Advanced Component Techniques](https://github.com/Geoff-Roodt/advanced-components)  
 
 
 #### What is Angular, I hear you say?  
@@ -24,7 +23,8 @@ This page has been created using Markdown.
 + [Email Client](https://github.com/Geoff-Roodt/Sarge-Stubby-Emails)
 + [Microsoft Bot Framework](https://github.com/Geoff-Roodt/BotTest1)
 + [Xamarin Cross Platform Colour Changer Mobile App](https://github.com/Geoff-Roodt/COMP6001-Ass1)
-+ [Swift ScanR Application](https://github.com/Geoff-Roodt/COMP6001-17B-SWIFT)
++ [Swift ScanR Application](https://github.com/Geoff-Roodt/COMP6001-17B-SWIFT)  
++ [Advanced Angular Component Techniques](https://github.com/Geoff-Roodt/advanced-components)  
 
 ***
 
